@@ -10,4 +10,5 @@ To ensure a clean and isolated environment for this project, it's recommended to
 
 python -m venv venv
 venv\Scripts\activate
+
 pip install -r requirements.txt  # Install the project dependencies
